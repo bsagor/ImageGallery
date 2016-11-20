@@ -1,0 +1,7 @@
+#Sun Nov 20 17:13:37 BDT 2016
+base.0=G\:\\BITM-C\\bsagor\\camera\\TourGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f1d6d8d9ed30f790bd70cfe16610812a2599e37
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\BITM-C\\bsagor\\camera\\TourGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3536a0d5e3892e87bb8d99a1b0f3b63cb5ff400\\classes.dex
+base.1=G\:\\BITM-C\\bsagor\\camera\\TourGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3536a0d5e3892e87bb8d99a1b0f3b63cb5ff400
+file.0=G\:\\BITM-C\\bsagor\\camera\\TourGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f1d6d8d9ed30f790bd70cfe16610812a2599e37\\classes.dex

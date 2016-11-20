@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_155724f10cc99f3d5f13c549fa8175fd2fe8ee66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_eaf5fff071019706252f2448b6615d45dd9fafe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a29fb40d8b2f4d6f410b4164bb9c9c7a1d85a50f">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1f1f45321f54e9af4fbd495057e08c5858d7d77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\TOSHIBA-PC\utilities-D\softwares\programming\Android\SDK_BKP\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_5bb7755f4ad247ea493b89c430e919f341535485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_3d615218170126e6bd392a330ec3b50010f43ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd150f915c434df6921ba8141adff89c2278d091">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea1af2867554b72cc4cac135160173127965efa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d558f56b1553a32712da181264b3ccb56e3778ba">
+        <dex dex="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3536a0d5e3892e87bb8d99a1b0f3b63cb5ff400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_041690e6a3e692d5dc529e3a29dc07963c6ddb2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37118b3a303ed16d3185837f7943a0036536cd08">
+        <dex dex="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f1d6d8d9ed30f790bd70cfe16610812a2599e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="G:\BITM-C\bsagor\camera\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_fce88068972a6725d9907e6f0374c81bde3df3fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\BITM-C\bsagor\camera\TourGallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_1409e752066c3e3fdf328e920fa50c5c58cf17e7\classes.dex" />
+    </item>
+
+</items>
